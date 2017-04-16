@@ -22,13 +22,9 @@
       
  - Prueba de un programa CUDA en entorno UBUNTU:
  
-      -- Hardware para el proyecto: 
-      
-          --- https://drive.google.com/open?id=0ByF7NuX9EW1IZU1XaWdodVJSXzQ
+      -- Hardware para el proyecto:https://drive.google.com/open?id=0ByF7NuX9EW1IZU1XaWdodVJSXzQ
           
-      -- Codigos compilados y ejecutados como primera prueba de la instalacion de CUDA:
-      
-          --- https://drive.google.com/open?id=0ByF7NuX9EW1IS1M3aWJBMnhGRGs
+      -- Codigos compilados y ejecutados como primera prueba de la instalacion de CUDA:  https://drive.google.com/open?id=0ByF7NuX9EW1IS1M3aWJBMnhGRGs
           
      -- La compilacion de los programas en CUDA se realiza con: nvcc <archivo.cu> -o <archivo.out>
      
@@ -36,8 +32,8 @@
 
   - Versiones instaladas:
   
-    -- gcc: https://drive.google.com/open?id=0ByF7NuX9EW1ITXczcmJ2bV9oXzQ
+    -- gcc: https://drive.google.com/open?id=0ByF7NuX9EW1ISVhPd0JhMmVsWEE
     
-    -- nvcc: https://drive.google.com/open?id=0ByF7NuX9EW1IVjNJZ0dZYWd0Qnc
+    -- nvcc: https://drive.google.com/open?id=0ByF7NuX9EW1IYTJETHFQSWpRRlU
     
 ### Equipo
