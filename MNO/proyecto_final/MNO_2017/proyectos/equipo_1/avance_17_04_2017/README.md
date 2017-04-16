@@ -23,6 +23,8 @@
  - Prueba de un programa CUDA en entorno UBUNTU:
  
       -- Hardware para el proyecto:https://drive.google.com/open?id=0ByF7NuX9EW1IZU1XaWdodVJSXzQ
+      
+      -- Tarjeta grafica: https://drive.google.com/open?id=0ByF7NuX9EW1IZnRudEJoWlNWVUk
           
       -- Codigos compilados y ejecutados como primera prueba de la instalacion de CUDA:  https://drive.google.com/open?id=0ByF7NuX9EW1IS1M3aWJBMnhGRGs
           
