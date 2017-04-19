@@ -1,19 +1,18 @@
 # Avance_17_04_2017
 
-## Integrantes:
+### Equipo
 
-** Gabriela Flores**
+##Redifinición del alcance del proyecto.
 
-** Paulina Salgado**
+Redefinimos el objetivo del proyecto, paralelizar word2vect con el modelo continuos bag of words (CBOW), mediante kuda C.
 
-** Guillermina Montanari**
 
 ## Trabajo:
 ### Individual
 
-**Gabriela**: Revisa el código del algoritmo en Python y toma tiempos de un ejemplo.
+**Paulina**: Revisó el algoritmo de word2vect
 
-**Paulina**: Revisar los métodos de optimización de cómputo matricial que pudieran ser aplicados en el proyecto.
+**Gabriela**: Revisó la implementación de python para identificar que partes de código se pueden paralelizar en kuda C.
 
 **Guillermina**:
 
@@ -38,4 +37,5 @@
     
     -- nvcc: https://drive.google.com/open?id=0ByF7NuX9EW1IYTJETHFQSWpRRlU
     
-### Equipo
+o
+
