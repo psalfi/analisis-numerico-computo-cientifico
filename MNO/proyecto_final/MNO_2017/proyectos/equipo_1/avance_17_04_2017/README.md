@@ -11,18 +11,6 @@
 ## Trabajo:
 ### Individual
 
-Avance_17_04_2017
-
-Equipo
-
-##Redifinición del alcance del proyecto.
-
-Redefinimos el objetivo del proyecto, paralelizar word2vect con el modelo continuos bag of words (CBOW), mediante Cuda C.
-
-Trabajo:
-
-Individual
-
 **Paulina**: Lectura de las referencias de Word Embeddings, Word2Vec y Redes Neuronales.
 
 **Gabriela**: Revisó la implementación del programa en python para identificar que partes de código se pueden paralelizar.
