@@ -38,6 +38,8 @@
     
     -- nvcc: https://drive.google.com/open?id=0ByF7NuX9EW1IYTJETHFQSWpRRlU
     
+    
+    
 ### Equipo
 
 ## Redefinición del alcance del proyecto.
