@@ -40,7 +40,7 @@
     
 ### Equipo
 
-##Redefinición del alcance del proyecto.
+## Redefinición del alcance del proyecto.
 
 Redefinimos el objetivo del proyecto: Paralelizar word2vect con el modelo continuos bag of words (CBOW), mediante Cuda C.
 
