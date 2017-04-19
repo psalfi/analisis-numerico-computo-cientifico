@@ -11,11 +11,23 @@
 ## Trabajo:
 ### Individual
 
-**Gabriela**: Revisa el código del algoritmo en Python y toma tiempos de un ejemplo.
+Avance_17_04_2017
 
-**Paulina**: Revisar los métodos de optimización de cómputo matricial que pudieran ser aplicados en el proyecto.
+Equipo
 
-**Guillermina**:
+##Redifinición del alcance del proyecto.
+
+Redefinimos el objetivo del proyecto, paralelizar word2vect con el modelo continuos bag of words (CBOW), mediante Cuda C.
+
+Trabajo:
+
+Individual
+
+**Paulina**: Lectura de las referencias de Word Embeddings, Word2Vec y Redes Neuronales.
+
+**Gabriela**: Revisó la implementación del programa en python para identificar que partes de código se pueden paralelizar.
+
+**Guillermina**: plataforma CUDA
 
   - Instalacion del driver y toolkit de CUDA: 
       -- http://docs.nvidia.com/cuda/cuda-installation-guide-linux/#axzz4eMvndrn1
@@ -39,3 +51,8 @@
     -- nvcc: https://drive.google.com/open?id=0ByF7NuX9EW1IYTJETHFQSWpRRlU
     
 ### Equipo
+
+##Redefinición del alcance del proyecto.
+
+Redefinimos el objetivo del proyecto: Paralelizar word2vect con el modelo continuos bag of words (CBOW), mediante Cuda C.
+
