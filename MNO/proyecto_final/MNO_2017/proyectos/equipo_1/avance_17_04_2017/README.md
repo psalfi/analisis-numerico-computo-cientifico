@@ -11,7 +11,21 @@
 ## Trabajo:
 ### Individual
 
-**Paulina**: Lectura de las referencias de Word Embeddings, Word2Vec y Redes Neuronales.
+**Paulina**: Referencias de Word Embeddings, Word2Vec y Redes Neuronales.
+              
+               Word embedding es un conjunto de modelos que se usan en técnicas de aprendizaje en procesamiento del lenguaje natural,   donde las palabras son mapeadas de un texto (corpus) a vectores con entradas reales. La idea es tomar un corpus (texto) de entrada y producir un espacio vectorial de salida de cientos de dimensiones, ya que cada palabra única de corpus tiene un vector asignado. Los vectores son posicionados en el espacio de tal manera que aquellos que comparten espacios comunes están cercanos.
+              
+              Para ello se utilizan redes neuronales, (aprendizaje no supervisado) con una capa oculta. Las neuronas en la capa oculta son todas lineales. La capa de entrada está configurada para tener tantas neuronas como hay palabras en el vocabulario para el entrenamiento. El tamaño de la capa oculta se ajusta a la dimensionalidad de los vectores de palabras resultantes. El tamaño de la capa de salida es el mismo de la capa de entrada.
+              
+              A continuación se encuentran <a href="https://drive.google.com/drive/u/1/folders/0ByF7NuX9EW1Ib0NEenJpdF82dnM"> las referencias </a> en donde se explica con mayor detalle el funcionamiento de word embeding y los algoritmos utilizados en su implementación: 
+              
+              -Continuos Bag of words (CBOW), From Data to Decisions, Integrated Knowledge Solutions.
+              
+              -Distrbuted Representations for Natural Language Processing, Tomas Mikalov-Facebook ML Prague 2016. 
+              
+              -Exploiting Similarities among Languages for Machine Translation, Tomas Mikolov, Quoc V. Le, Ilya Sutskever, 2013.
+              
+              
 
 **Gabriela**: Revisó la implementación del programa en python para identificar que partes de código se pueden paralelizar.
 
